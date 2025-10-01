@@ -16,6 +16,7 @@
 ---
 ### 4. [야타브 엔터, 고양이 키우기](https://github.com/dovewith999/Project_Y)
 야타브 엔터, 상담 AI 키우기 게임 외주 제작
+-회사 내부 사정으로 코드 공개 불가-
 
 ---
 ### 5. [Don't give me sushi](https://github.com/n55b/Sushi_Take)
