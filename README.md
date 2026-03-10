@@ -26,3 +26,7 @@
 ---
 ### 6. [Don't give me sushi](https://github.com/n55b/Sushi_Take)
 2023년도 호서대학교 팀 프로젝트
+
+---
+### 7. [미정](https://github.com/danielhjpark/ShootingGame)
+AI를 활용한 1인개발 프로젝트
