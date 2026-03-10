@@ -24,5 +24,5 @@
 2024년도 호서대학교 게임잼
 
 ---
-### 5. [Don't give me sushi](https://github.com/n55b/Sushi_Take)
+### 6. [Don't give me sushi](https://github.com/n55b/Sushi_Take)
 2023년도 호서대학교 팀 프로젝트
